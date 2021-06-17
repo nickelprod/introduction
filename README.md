@@ -4,4 +4,4 @@ Nickel Productions is just a couple of friends (named Nick and Kyle; clever, rig
 email (not often checked): nickelprod@outlook.com
 
 # Projects
-Declination: a simple text adventure in a crashing spaceship. The plan is to add more content and convert the project to Ruby.
+Declination: a simple text adventure in a crashing space train. The plan is to add more content and convert the project to Ruby.
